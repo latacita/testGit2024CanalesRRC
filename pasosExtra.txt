@@ -1,0 +1,4 @@
+(22)    push        Conflicto fuera de sincronia por el nombre.
+                    Se arregla dejando mi nombre.
+(23)    checkout SegundaRama
+(24)    code pasosExtra.txt
