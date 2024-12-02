@@ -8,3 +8,4 @@
 ====== ============================ ================================
 (01)    clone URL
 (02)    code bitacora.txt            Añadir nombre
+(04)    checkout -b PrimeraRama
