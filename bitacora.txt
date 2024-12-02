@@ -8,3 +8,13 @@
 ====== ============================ ================================
 (01)    clone URL
 (02)    code bitacora.txt            Añadir nombre
+(08)    push origin SegundaRama
+(09)    checkout master
+(17)    checkout PrimeraRama
+(18)    merge SegundaRama            Estando en PrimeraRama. Fusion con 
+                                     conflictos. Se reordena.
+        solucionar conflictos
+        add bitacora.txt
+        commit
+(19)    checkout master
+(20)    stash apply
