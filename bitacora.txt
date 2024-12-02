@@ -1,8 +1,10 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre): Sánchez Barreiro, Pablo              %%
+%% Alumno (Apellidos, Nombre): Canales Cobo, Pablo                  %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+(01)    clone URL
+(02)    code bitacora.txt            Añadir nombre
