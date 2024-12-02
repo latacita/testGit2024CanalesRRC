@@ -10,3 +10,7 @@
 (02)    code bitacora.txt            Añadir nombre
 (04)    checkout -b PrimeraRama
 (06)    checkout -b SegundaRama
+(14)    Fusion recursiva ya que ambas ramas tienes commits exclusivos o
+        distintos (commit 7 y 12). Git deberá combinar ambos cambios.
+(15)    Fusion fast-forward ya que el último commit de master (Paso 03)
+        está contenido en la rama PrimeraRama
